@@ -63,4 +63,4 @@ Telegram频道传送门：汇总优质Telegram频道入口，涵盖娱乐、资�
 
 《黑料大事记》系统梳理娱乐圈与网红圈的重要爆料事件，从初始爆点到舆论发酵，按时间线完整呈现。内容真实详尽，不仅还原事件全貌，也帮助吃瓜群众回顾每一次重大风波，是深入了解圈内内幕与舆论演变的重要资料库。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/Winx20250625/xiaoxiao）</span>
